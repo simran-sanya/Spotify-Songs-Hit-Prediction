@@ -5,7 +5,7 @@ Overview: In today's competitive music industry, streaming platforms like Spotif
 
 Tech Stack: Python, Pandas, Scikit-Learn, XGBoost, Seaborn, Matplotlib.
 
-Methodology & Workflow:
+*Methodology & Workflow:*
 
 Exploratory Data Analysis (EDA): Conducted comprehensive analysis on the "Spotify 2023" dataset, including univariate/bivariate analysis and correlation heatmaps to uncover relationships between track attributes and success.
 
