@@ -1,5 +1,6 @@
 # Spotify-Songs-Hit-Prediction
 Project Title: Spotify Hit Predictor
+
 Overview: In today's competitive music industry, streaming platforms like Spotify play a crucial role in defining what makes a song a "hit." This project utilizes machine learning and music analytics to forecast whether a track will become a hit based on its innate audio features (such as acousticness, danceability, energy, and tempo) and musical properties. The goal is to provide data-driven insights that help artists, producers, and record labels understand the sonic patterns underlying popular music.
 
 Tech Stack: Python, Pandas, Scikit-Learn, XGBoost, Seaborn, Matplotlib.
